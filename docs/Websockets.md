@@ -27,6 +27,7 @@ documented [here](https://github.com/StreamElements/widgets/blob/master/CustomCo
     },
     "type": {
       "enum": [
+        "boo",
         "cheer",
         "follow",
         "host",
